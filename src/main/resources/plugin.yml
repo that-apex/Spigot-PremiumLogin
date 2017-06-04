@@ -1,0 +1,4 @@
+name: 'SimpleAutoLogin'
+author: 'that-apex'
+version: '${project.version}'
+main: 'net.thatapex.simpleautologin.SimpleAutoLogin'
